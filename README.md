@@ -337,3 +337,4 @@ Please keep PRs focused — one feature or fix per PR.
 ## License
 
 [MIT](LICENSE) — © Júlio César Santos
+
